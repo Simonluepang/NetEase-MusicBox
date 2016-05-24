@@ -3,7 +3,8 @@ NetEase-MusicBox
 
 高品质网易云音乐命令行版本，简洁优雅，丝般顺滑，基于Python编写。
 
-![NetEase-MusicBox](http://i.imgur.com/J5353vK.gif)
+### 修改功能
+修改风格和语言！
 
 ### 功能特性
 
